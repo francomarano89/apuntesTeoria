@@ -1,5 +1,7 @@
 # Preguntas Teoricas
 
+ver
+
 Requerimientos:
 Qué son los requerimientos?
 Como se pueden clasificar los requerimientos?
