@@ -1,5 +1,7 @@
 # Preguntas Teoricas
 
+ACA ESTA LA CLAVE!
+
 Requerimientos:
 Qué son los requerimientos?
 Como se pueden clasificar los requerimientos?
