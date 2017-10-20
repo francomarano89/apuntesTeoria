@@ -1,7 +1,5 @@
 # Preguntas Teoricas
 
-ACA ESTA LA CLAVE!
-
 Requerimientos:
 Qué son los requerimientos?
 Como se pueden clasificar los requerimientos?
@@ -33,3 +31,4 @@ Administrar la configuración del software
 Cual es el propósito de la Administración de configuración del software?
 Cómo logra la administración de la configuración del software mantener un historial de los ítem de configuración?
 Probando cambio
+otra cosa
