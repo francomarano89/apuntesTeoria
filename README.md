@@ -1,7 +1,5 @@
 # Preguntas Teoricas
-*
-*CAMBIOS FRANCO 
-*
+
 Requerimientos:
 Qué son los requerimientos?
 Como se pueden clasificar los requerimientos?
