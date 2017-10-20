@@ -1,6 +1,6 @@
 # Preguntas Teoricas
 
-Requerimientos:
+<h1>Requerimientos:</h1>
 Qué son los requerimientos?
 Como se pueden clasificar los requerimientos?
 De donde provienen los requerimientos?
