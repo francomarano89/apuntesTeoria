@@ -1,6 +1,9 @@
 # Preguntas Teoricas
 
 Requerimientos:
+
+Modificado por Alberto
+
 Qué son los requerimientos?
 Como se pueden clasificar los requerimientos?
 De donde provienen los requerimientos?
