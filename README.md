@@ -1,13 +1,15 @@
 # Preguntas Teoricas
 
 <h1>Requerimientos:</h1>
-Qué son los requerimientos?
-Como se pueden clasificar los requerimientos?
-De donde provienen los requerimientos?
-cuáles son algunos de los problemas con los requerimientos?
-Cuales son los problemas con los documento extensos para definir los requerimientos?
-Cual es el formato de una Historia de Usuario?
-Cuales son las características de una Historia de Usuario?
+<ul>
+<li> Qué son los requerimientos?</li>
+<li>Como se pueden clasificar los requerimientos?</li>
+<li>De donde provienen los requerimientos?</li>
+<li>cuáles son algunos de los problemas con los requerimientos?</li>
+<li>Cuales son los problemas con los documento extensos para definir los requerimientos?</li>
+<li>Cual es el formato de una Historia de Usuario?</li>
+  <li>Cuales son las características de una Historia de Usuario?</li>
+  </ul>
 
 Planificar proyectos de software
 Que hace que un plan sea bueno?
