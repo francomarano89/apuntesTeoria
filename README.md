@@ -1,4 +1,4 @@
-# apuntesTeoria
+# Preguntas Teoricas
 
 Requerimientos:
 Qué son los requerimientos?
